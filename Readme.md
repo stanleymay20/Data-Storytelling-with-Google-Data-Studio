@@ -1,21 +1,63 @@
+# Business Intelligence & Data Storytelling Dashboard Suite
 
-### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+## Project Overview
 
-<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
-3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+This project demonstrates the transformation of raw operational and retail datasets into interactive executive dashboards using Looker Studio (Google Data Studio).
 
-Code: <b>USD75OFF</b>
+The objective was to convert raw business data into actionable intelligence that supports strategic decision-making.
 
+---
 
+## Business Problems Addressed
 
+- What factors contribute to employee turnover?
+- Which customer segments generate the highest revenue?
+- What complaint patterns indicate operational risk?
+- How can revenue trends improve strategic planning?
 
-## Dataset sources:
-- employee_turnover.tsv: https://data.world/sireeshapulipat/employee-turnover-analysis
-- cfpb_mortgage_complaints_dataset.csv: https://www.consumerfinance.gov/data-research/consumer-complaints/ 
-- online_sales.zip: https://archive.ics.uci.edu/ml/datasets/Online+Retail 
-  - Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
-  - Daqing Chen, Sai Liang Sain, and Kun Guo, Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining, Journal of Database Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197â€“208, 2012 (Published online before print: 27 August 2012. doi: 10.1057/dbm.2012.17).
-### Download a free PDF
+---
 
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781800568761">https://packt.link/free-ebook/9781800568761 </a> </p>
+## Dashboard Modules
+
+### 1. Employee Turnover Intelligence
+- Attrition rate analysis
+- Department-level risk segmentation
+- Tenure vs compensation insights
+
+### 2. Retail Revenue Dashboard
+- Monthly and seasonal revenue trends
+- RFM customer segmentation
+- Product performance analysis
+
+### 3. Customer Complaint Analytics
+- Complaint frequency analysis
+- Resolution time metrics
+- Risk category tracking
+
+---
+
+## Tools & Technologies
+
+- Looker Studio (Google Data Studio)
+- Data Cleaning (Excel)
+- Data Modeling
+- KPI Framework Design
+- Business Intelligence Visualization
+
+---
+
+## Key Insights
+
+- Identified high-risk attrition segments
+- Revealed top revenue-driving customer groups
+- Highlighted recurring operational risk categories
+- Designed scalable dashboard templates for business replication
+
+---
+
+## Future Enhancements
+
+- Predictive churn modeling integration
+- Real-time data connectors
+- Automated executive summary generation
+- AI-based anomaly detection
